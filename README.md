@@ -1,2 +1,3 @@
-# Pong-Tutorial
-Source Code for "C++ Game Programming For Beginners - Pong in Raylib"
+# Pong Game
+
+Created a Pong Game using C++ and Raylib
